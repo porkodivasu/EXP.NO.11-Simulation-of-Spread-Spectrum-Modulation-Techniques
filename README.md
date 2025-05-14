@@ -1,7 +1,7 @@
-**EXP.NO.11-Simulation-of-Spread-Spectrum-Modulation-Techniques
-11.Simulation of Spread Spectrum Modulation Techniques
+**EXP.NO.11-Simulation-of-Spread-Spectrum-Modulation-Techniques**
+**11.Simulation of Spread Spectrum Modulation Techniques**
 
-AIM**
+**AIM**
 To simulate the spread spectrum modulation techniques using Python programming.
 
 **SOFTWARE REQUIRED**
@@ -141,6 +141,9 @@ plt.grid(True)
 plt.tight_layout()
 
 plt.show()
+
+
+
 **OUTPUT**
 ![Screenshot (122)](https://github.com/user-attachments/assets/18c62cc1-1162-48e9-89a8-d3d8a950a671)
 
