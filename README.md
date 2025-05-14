@@ -1,13 +1,13 @@
-EXP.NO.11-Simulation-of-Spread-Spectrum-Modulation-Techniques
+**EXP.NO.11-Simulation-of-Spread-Spectrum-Modulation-Techniques
 11.Simulation of Spread Spectrum Modulation Techniques
 
-AIM
+AIM**
 To simulate the spread spectrum modulation techniques using Python programming.
 
-SOFTWARE REQUIRED
+**SOFTWARE REQUIRED**
 Python Colab
 
-ALGORITHMS
+**ALGORITHMS**
 Initialize System Parameters
 
 Calculate chip_rate = bit_rate × chips_per_bit
@@ -48,7 +48,7 @@ Plot the BPSK-modulated carrier waveform
 
 Display the Plots
 
-PROGRAM
+**PROGRAM**
 import numpy as np
 
 import matplotlib.pyplot as plt
@@ -141,9 +141,9 @@ plt.grid(True)
 plt.tight_layout()
 
 plt.show()
-OUTPUT
+**OUTPUT**
 ![Screenshot (122)](https://github.com/user-attachments/assets/18c62cc1-1162-48e9-89a8-d3d8a950a671)
 
 
-RESULT / CONCLUSIONS
+**RESULT / CONCLUSIONS**
 Thus, simulation of the spread spectrum modulation techniques using Python programming was implemented successfully.
